@@ -1,0 +1,18 @@
+<html>
+<head>
+<h1>我就做个简单的链接哈哈<br></h1>
+</head>
+
+<body>
+
+<h3>实拍喔<br></h3>
+<img src="001.jpg" width="500" height="300">
+</img><br>
+<img src="002.jpg" width="500" height="300">
+</img><br>
+<img src="003.jpg" width="500" height="300">
+</img><br>
+
+
+</body>
+</html>
